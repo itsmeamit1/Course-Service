@@ -53,15 +53,4 @@ public class CourseController  {
     }
 }
 
-//sample data for inserting record in DB
-//{
-//        "name" : "SpringBoot" ,
-//        "trainerName" : "Basant",
-//        "duration" : "90" ,
-//        "startDate" : "30-09-2024",
-//        "courseType" : "Live Class" .
-//        "fees" : "5000",
-//        "isCertificateAvailable" : "true" ,
-//        "description" : "Complete SB Microservices course "
-//
-//        }
+
